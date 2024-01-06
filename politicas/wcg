@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap" rel="stylesheet" />
+    <title>Política de Privacidade - FApps</title>
+    <style>
+        body {
+            font-family: "Montserrat", sans-serif;
+            text-align: center;
+            font-weight: 600;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        h1 {
+            font-family: "Lato", sans-serif;
+            font-weight: 900;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #f2f2f2;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="/">
+            <img src="/images/logo.png" style="width: 60px;" alt="Logo" />
+        </a>
+        <h1>fapps.fun</h1>
+        <h1 style="font-size: 15px">Apps para produtividade,</h1>
+        <h1 style="font-size: 15px">jogos para diversão</h1>
+    </header>
+
+    <div>
+        <h1>Política de Privacidade do Jogo</h1>
+      
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">N&oacute;s, da FApps Fun, desenvolvemos o <em><strong>Wild Cards Game</strong></em> (doravante mencionado como WCG) como um jogo gratuito para jogar, mas com monetiza&ccedil;&atilde;o por propagandas e compras in-game opcionais. Esta p&aacute;gina &eacute; usada para informar voc&ecirc; sobre as pol&iacute;ticas de coleta, uso e divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es pessoais, se voc&ecirc; decidir jogar o WCG. Ao instalar e abrir o jogo, voc&ecirc; declarar concorda com todos os termos descritos nesta pol&iacute;tica.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><span style="font-size:20px"><strong>1. Coleta e uso de informa&ccedil;&otilde;es</strong></span></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Para uma melhor experi&ecirc;ncia, posso coletar dados de registro durante o jogo (descrito na se&ccedil;&atilde;o 2). As informa&ccedil;&otilde;es que eu solicitar ser&atilde;o retidas no seu dispositivo e no banco de dados do Google Firebase, para acesso remoto por administradores apenas para garantir o correto funcionamento do jogo. N&atilde;o h&aacute; nenhuma coleta de dados pessoais do usu&aacute;rio e nenhum dado &eacute; vendido.</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">O WCG utilizaa servi&ccedil;os de terceiros que podem coletar informa&ccedil;&otilde;es usadas para identific&aacute;-lo. O link para a pol&iacute;tica de privacidade de provedores de servi&ccedil;os terceirizados usados ​​pelo aplicativo est&atilde;o listados a seguir:</span></p>
+
+<ul>
+	<li>
+	<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><a href="https://www.google.com/policies/privacy/">Google Play Services</a></span></p>
+	</li>
+	<li>
+	<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a></span></p>
+	</li>
+	<li>
+	<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><a href="https://firebase.google.com/policies/analytics">Google Analytics for Firebase</a></span></p>
+	</li>
+	<li>
+	<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><a href="https://firebase.google.com/support/privacy/">Firebase Crashlytics</a></span></p>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><strong><span style="font-size:20px">2. Dados de registro</span></strong></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Quero informar que durante o jogo, em caso de erro, coleto dados e informa&ccedil;&otilde;es (atrav&eacute;s de servi&ccedil;os de terceiros) em seu telefone chamado &quot;Dados de registro&quot;. Esses Dados de Registro podem incluir informa&ccedil;&otilde;es como o endere&ccedil;o do Protocolo de Internet (&ldquo;IP&rdquo;) do seu dispositivo, nome do dispositivo, vers&atilde;o do sistema operacional, a vers&atilde;o do jogo instalada, al&eacute;m de poss&iacute;veis registros de erros ou a quantidade de tempo gasto em cada tela, bem como a hora e a data de uso do jogo.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><strong><span style="font-size:20px">3. Cookies</span></strong></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Cookies s&atilde;o arquivos com uma pequena quantidade de dados que s&atilde;o comumente usados ​​como identificadores exclusivos an&ocirc;nimos. Eles s&atilde;o enviados para o seu navegador a partir dos sites que voc&ecirc; visita e s&atilde;o armazenados na mem&oacute;ria interna do seu dispositivo. Este aplicativo n&atilde;o usa esses &ldquo;cookies&rdquo; explicitamente.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><strong><span style="font-size:20px">4. Seguran&ccedil;a</span></strong></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Eu valorizo ​​sua confian&ccedil;a em me fornecer suas informa&ccedil;&otilde;es pessoais, portanto, estou me esfor&ccedil;ando para usar meios comercialmente aceit&aacute;veis ​​de proteg&ecirc;-las. Mas lembre-se que nenhum m&eacute;todo de transmiss&atilde;o pela internet, ou m&eacute;todo de armazenamento eletr&ocirc;nico &eacute; 100% seguro e confi&aacute;vel, e n&atilde;o posso garantir sua seguran&ccedil;a absoluta durante o uso do jogo.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><strong><span style="font-size:20px">5. Links para outros sites</span></strong></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Este aplicativo cont&eacute;m links para outros sites, al&eacute;m daquele que cont&eacute;m esta Pol&iacute;tica de Privacidade. N&atilde;o tenho controle e n&atilde;o assumo responsabilidade pelo conte&uacute;do, pol&iacute;ticas de privacidade ou pr&aacute;ticas de quaisquer sites ou servi&ccedil;os de terceiros.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><span style="font-size:20px"><strong>6. Privacidade infantil</strong></span></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Este aplicativo n&atilde;o se dirige a menores de 14 anos na Google Play Store e n&atilde;o coletamos intencionalmente informa&ccedil;&otilde;es de identifica&ccedil;&atilde;o pessoal de crian&ccedil;as menores de 14 anos. Se voc&ecirc; &eacute; pai ou respons&aacute;vel e est&aacute; ciente de que seu filho tem acesso ao WCG, voc&ecirc; assume a responsabilidade pelo conte&uacute;do que este jogo cont&eacute;m.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><strong><span style="font-size:20px">7. Altera&ccedil;&otilde;es nesta Pol&iacute;tica de Privacidade</span></strong></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Posso atualizar minha Pol&iacute;tica de Privacidade de tempos em tempos. Assim, recomendo que voc&ecirc; revise esta p&aacute;gina periodicamente para tomar conhecimento de quaisquer altera&ccedil;&otilde;es. Vou notific&aacute;-lo sobre quaisquer altera&ccedil;&otilde;es publicando a nova Pol&iacute;tica de Privacidade nesta p&aacute;gina.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Esta pol&iacute;tica est&aacute; em vigor a partir de <u>05/01/2024</u>.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif"><strong><span style="font-size:20px">8. Contate-me</span></strong></span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Se voc&ecirc; tiver alguma d&uacute;vida ou sugest&atilde;o sobre minha Pol&iacute;tica de Privacidade, n&atilde;o hesite em me contatar em <a href="mailto:flaviogama@outlook.com?subject=Politica%20de%20Privacidade%20-%20Wild%20Cards%20Game">flaviogama@outlook.com</a>.</span></p>
+
+    </div>
+
+    <footer>
+        <p>Copyright © 2024 fapps.fun – Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
