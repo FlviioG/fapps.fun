@@ -1,0 +1,13 @@
+<script>
+    // Verifique se o aplicativo está instalado usando um esquema personalizado
+    function verificaSeAppInstalado() {
+        window.location = "https";
+        setTimeout(function() {
+            // Se o redirecionamento não ocorreu, o aplicativo não está instalado
+            window.location = "https://play.google.com/store/apps/details?id=com.flavio.cardsgame";
+        }, 500);
+    }
+
+    // Chame a função de verificação quando a página é carregada
+    verificaSeAppInstalado();
+</script>
