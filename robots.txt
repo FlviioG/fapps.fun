@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /politicas/lotr.html
+Disallow: /politicas/wcg.html
